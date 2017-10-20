@@ -25,7 +25,8 @@ the mailing list and post your new questions there.
 
 ## How to Build GNU Radio
 
-### PyBOMBS
+### PyBOMBS ###
+===============
 PyBOMBS (Python Build Overlay Managed Bundle System) is the recommended 
 method for building and installing GNU Radio. Please see 
 https://github.com/gnuradio/pybombs for detailed instructions. Abbreviated 
